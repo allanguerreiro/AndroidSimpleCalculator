@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="linearLayout1" type="id">Layout Linear Interno</item>
+    <item name="etNum1" type="id">Editor de Texto 1</item>
+    <item name="etNum2" type="id">Editor de Texto 2</item>
+    <item name="linearLayout2" type="id">Layout Linear Interno 2</item>
+    <item name="btnAdd" type="id">Botao Adicionar</item>
+    <item name="btnSub" type="id">Botao Subtrair</item>
+    <item name="btnMult" type="id">Botao Multiplicar</item>
+    <item name="btnDiv" type="id">Botao Divisao</item>
+    <item name="tvResult" type="id">Texto de Resultado</item>
+
+</resources>
